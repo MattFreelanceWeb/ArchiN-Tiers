@@ -1,0 +1,17 @@
+/home/jessee/RiderProjects/Application/IDataRepository/bin/Debug/net6.0/IDataRepository.deps.json
+/home/jessee/RiderProjects/Application/IDataRepository/bin/Debug/net6.0/IDataRepository.runtimeconfig.json
+/home/jessee/RiderProjects/Application/IDataRepository/bin/Debug/net6.0/IDataRepository.dll
+/home/jessee/RiderProjects/Application/IDataRepository/bin/Debug/net6.0/IDataRepository.pdb
+/home/jessee/RiderProjects/Application/IDataRepository/bin/Debug/net6.0/Models.dll
+/home/jessee/RiderProjects/Application/IDataRepository/bin/Debug/net6.0/Models.pdb
+/home/jessee/RiderProjects/Application/IDataRepository/obj/Debug/net6.0/IDataRepository.csproj.AssemblyReference.cache
+/home/jessee/RiderProjects/Application/IDataRepository/obj/Debug/net6.0/IDataRepository.GeneratedMSBuildEditorConfig.editorconfig
+/home/jessee/RiderProjects/Application/IDataRepository/obj/Debug/net6.0/IDataRepository.AssemblyInfoInputs.cache
+/home/jessee/RiderProjects/Application/IDataRepository/obj/Debug/net6.0/IDataRepository.AssemblyInfo.cs
+/home/jessee/RiderProjects/Application/IDataRepository/obj/Debug/net6.0/IDataRepository.csproj.CoreCompileInputs.cache
+/home/jessee/RiderProjects/Application/IDataRepository/obj/Debug/net6.0/IDataRepository.csproj.CopyComplete
+/home/jessee/RiderProjects/Application/IDataRepository/obj/Debug/net6.0/IDataRepository.dll
+/home/jessee/RiderProjects/Application/IDataRepository/obj/Debug/net6.0/refint/IDataRepository.dll
+/home/jessee/RiderProjects/Application/IDataRepository/obj/Debug/net6.0/IDataRepository.pdb
+/home/jessee/RiderProjects/Application/IDataRepository/obj/Debug/net6.0/IDataRepository.genruntimeconfig.cache
+/home/jessee/RiderProjects/Application/IDataRepository/obj/Debug/net6.0/ref/IDataRepository.dll

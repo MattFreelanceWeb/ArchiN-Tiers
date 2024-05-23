@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jessee/RiderProjects/Application/ORM/ORM.csproj": {}
+  },
+  "projects": {
+    "/home/jessee/RiderProjects/Application/Models/Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jessee/RiderProjects/Application/Models/Models.csproj",
+        "projectName": "Models",
+        "projectPath": "/home/jessee/RiderProjects/Application/Models/Models.csproj",
+        "packagesPath": "/home/jessee/.nuget/packages/",
+        "outputPath": "/home/jessee/RiderProjects/Application/Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jessee/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Castle.Windsor": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/jessee/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jessee/RiderProjects/Application/ORM/ORM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jessee/RiderProjects/Application/ORM/ORM.csproj",
+        "projectName": "ORM",
+        "projectPath": "/home/jessee/RiderProjects/Application/ORM/ORM.csproj",
+        "packagesPath": "/home/jessee/.nuget/packages/",
+        "outputPath": "/home/jessee/RiderProjects/Application/ORM/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jessee/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/jessee/RiderProjects/Application/Models/Models.csproj": {
+                "projectPath": "/home/jessee/RiderProjects/Application/Models/Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Castle.Windsor": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.30, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.30, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.30, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/jessee/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

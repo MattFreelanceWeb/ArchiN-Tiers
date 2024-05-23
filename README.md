@@ -8,6 +8,13 @@ Un projet web utilisant l'architecture N-Tiers avec le langage C#.
 - [Docker](https://docs.docker.com/engine/install/ubuntu/)
 - [Rider](https://www.jetbrains.com/fr-fr/rider/)
 
+## NuGet Packages
+- Microsoft.EntityFrameworkCore
+- Microsoft.EntityFrameworkCore.Design
+- Microsoft.EntityFrameworkCore.Tools
+- Npgsql.EntityFrameworkCore.PostgreSQL
+- Castle.Windsor
+
 
 ## Installation
 # Base de données PostgreSQL + PGadmin

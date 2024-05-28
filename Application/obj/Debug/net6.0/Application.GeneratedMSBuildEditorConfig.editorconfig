@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Application
 build_property.RootNamespace = Application
-build_property.ProjectDir = /home/matt/RiderProjects/ArchiN-Tiers/Application/
+build_property.ProjectDir = /home/jessee/RiderProjects/Application/Application/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/matt/RiderProjects/ArchiN-Tiers/Application
+build_property.MSBuildProjectDirectory = /home/jessee/RiderProjects/Application/Application
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/matt/RiderProjects/ArchiN-Tiers/Application/Views/Home/Index.cshtml]
+[/home/jessee/RiderProjects/Application/Application/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matt/RiderProjects/ArchiN-Tiers/Application/Views/Home/Privacy.cshtml]
+[/home/jessee/RiderProjects/Application/Application/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matt/RiderProjects/ArchiN-Tiers/Application/Views/Shared/Error.cshtml]
+[/home/jessee/RiderProjects/Application/Application/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matt/RiderProjects/ArchiN-Tiers/Application/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/jessee/RiderProjects/Application/Application/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matt/RiderProjects/ArchiN-Tiers/Application/Views/Student/Create.cshtml]
+[/home/jessee/RiderProjects/Application/Application/Views/Student/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matt/RiderProjects/ArchiN-Tiers/Application/Views/Student/Delete.cshtml]
+[/home/jessee/RiderProjects/Application/Application/Views/Student/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matt/RiderProjects/ArchiN-Tiers/Application/Views/Student/Details.cshtml]
+[/home/jessee/RiderProjects/Application/Application/Views/Student/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matt/RiderProjects/ArchiN-Tiers/Application/Views/Student/Edit.cshtml]
+[/home/jessee/RiderProjects/Application/Application/Views/Student/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matt/RiderProjects/ArchiN-Tiers/Application/Views/Student/Index.cshtml]
+[/home/jessee/RiderProjects/Application/Application/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matt/RiderProjects/ArchiN-Tiers/Application/Views/_ViewImports.cshtml]
+[/home/jessee/RiderProjects/Application/Application/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matt/RiderProjects/ArchiN-Tiers/Application/Views/_ViewStart.cshtml]
+[/home/jessee/RiderProjects/Application/Application/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matt/RiderProjects/ArchiN-Tiers/Application/Views/Shared/_Layout.cshtml]
+[/home/jessee/RiderProjects/Application/Application/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9ib70kg4jq

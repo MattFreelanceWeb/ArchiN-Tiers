@@ -1092,19 +1092,19 @@
     ]
   },
   "packageFolders": {
-    "/home/jessee/.nuget/packages/": {}
+    "/home/matt/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jessee/RiderProjects/Application/Models/Models.csproj",
+      "projectUniqueName": "/home/matt/RiderProjects/ArchiN-Tiers/Models/Models.csproj",
       "projectName": "Models",
-      "projectPath": "/home/jessee/RiderProjects/Application/Models/Models.csproj",
-      "packagesPath": "/home/jessee/.nuget/packages/",
-      "outputPath": "/home/jessee/RiderProjects/Application/Models/obj/",
+      "projectPath": "/home/matt/RiderProjects/ArchiN-Tiers/Models/Models.csproj",
+      "packagesPath": "/home/matt/.nuget/packages/",
+      "outputPath": "/home/matt/RiderProjects/ArchiN-Tiers/Models/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/jessee/.nuget/NuGet/NuGet.Config"
+        "/home/matt/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -1153,7 +1153,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/jessee/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/matt/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
       }
     }
   }

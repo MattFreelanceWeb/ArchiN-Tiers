@@ -1559,19 +1559,19 @@
     ]
   },
   "packageFolders": {
-    "/home/jessee/.nuget/packages/": {}
+    "/home/matt/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jessee/RiderProjects/Application/ApplicationAPI/ApplicationAPI.csproj",
+      "projectUniqueName": "/home/matt/RiderProjects/ArchiN-Tiers/ApplicationAPI/ApplicationAPI.csproj",
       "projectName": "ApplicationAPI",
-      "projectPath": "/home/jessee/RiderProjects/Application/ApplicationAPI/ApplicationAPI.csproj",
-      "packagesPath": "/home/jessee/.nuget/packages/",
-      "outputPath": "/home/jessee/RiderProjects/Application/ApplicationAPI/obj/",
+      "projectPath": "/home/matt/RiderProjects/ArchiN-Tiers/ApplicationAPI/ApplicationAPI.csproj",
+      "packagesPath": "/home/matt/.nuget/packages/",
+      "outputPath": "/home/matt/RiderProjects/ArchiN-Tiers/ApplicationAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/jessee/.nuget/NuGet/NuGet.Config"
+        "/home/matt/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -1583,11 +1583,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/jessee/RiderProjects/Application/Models/Models.csproj": {
-              "projectPath": "/home/jessee/RiderProjects/Application/Models/Models.csproj"
+            "/home/matt/RiderProjects/ArchiN-Tiers/Models/Models.csproj": {
+              "projectPath": "/home/matt/RiderProjects/ArchiN-Tiers/Models/Models.csproj"
             },
-            "/home/jessee/RiderProjects/Application/ORM/ORM.csproj": {
-              "projectPath": "/home/jessee/RiderProjects/Application/ORM/ORM.csproj"
+            "/home/matt/RiderProjects/ArchiN-Tiers/ORM/ORM.csproj": {
+              "projectPath": "/home/matt/RiderProjects/ArchiN-Tiers/ORM/ORM.csproj"
             }
           }
         }
@@ -1630,7 +1630,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/jessee/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/matt/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
       }
     }
   }

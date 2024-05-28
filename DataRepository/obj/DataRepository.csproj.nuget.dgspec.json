@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jessee/RiderProjects/Application/DataRepository/DataRepository.csproj": {}
+    "/home/matt/RiderProjects/ArchiN-Tiers/DataRepository/DataRepository.csproj": {}
   },
   "projects": {
-    "/home/jessee/RiderProjects/Application/DataRepository/DataRepository.csproj": {
+    "/home/matt/RiderProjects/ArchiN-Tiers/DataRepository/DataRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jessee/RiderProjects/Application/DataRepository/DataRepository.csproj",
+        "projectUniqueName": "/home/matt/RiderProjects/ArchiN-Tiers/DataRepository/DataRepository.csproj",
         "projectName": "DataRepository",
-        "projectPath": "/home/jessee/RiderProjects/Application/DataRepository/DataRepository.csproj",
-        "packagesPath": "/home/jessee/.nuget/packages/",
-        "outputPath": "/home/jessee/RiderProjects/Application/DataRepository/obj/",
+        "projectPath": "/home/matt/RiderProjects/ArchiN-Tiers/DataRepository/DataRepository.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/RiderProjects/ArchiN-Tiers/DataRepository/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jessee/.nuget/NuGet/NuGet.Config"
+          "/home/matt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,11 +26,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/jessee/RiderProjects/Application/IDataRepository/IDataRepository.csproj": {
-                "projectPath": "/home/jessee/RiderProjects/Application/IDataRepository/IDataRepository.csproj"
+              "/home/matt/RiderProjects/ArchiN-Tiers/IDataRepository/IDataRepository.csproj": {
+                "projectPath": "/home/matt/RiderProjects/ArchiN-Tiers/IDataRepository/IDataRepository.csproj"
               },
-              "/home/jessee/RiderProjects/Application/ORM/ORM.csproj": {
-                "projectPath": "/home/jessee/RiderProjects/Application/ORM/ORM.csproj"
+              "/home/matt/RiderProjects/ArchiN-Tiers/ORM/ORM.csproj": {
+                "projectPath": "/home/matt/RiderProjects/ArchiN-Tiers/ORM/ORM.csproj"
               }
             }
           }
@@ -86,21 +86,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/jessee/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/matt/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/jessee/RiderProjects/Application/IDataRepository/IDataRepository.csproj": {
+    "/home/matt/RiderProjects/ArchiN-Tiers/IDataRepository/IDataRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jessee/RiderProjects/Application/IDataRepository/IDataRepository.csproj",
+        "projectUniqueName": "/home/matt/RiderProjects/ArchiN-Tiers/IDataRepository/IDataRepository.csproj",
         "projectName": "IDataRepository",
-        "projectPath": "/home/jessee/RiderProjects/Application/IDataRepository/IDataRepository.csproj",
-        "packagesPath": "/home/jessee/.nuget/packages/",
-        "outputPath": "/home/jessee/RiderProjects/Application/IDataRepository/obj/",
+        "projectPath": "/home/matt/RiderProjects/ArchiN-Tiers/IDataRepository/IDataRepository.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/RiderProjects/ArchiN-Tiers/IDataRepository/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jessee/.nuget/NuGet/NuGet.Config"
+          "/home/matt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -112,8 +112,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/jessee/RiderProjects/Application/Models/Models.csproj": {
-                "projectPath": "/home/jessee/RiderProjects/Application/Models/Models.csproj"
+              "/home/matt/RiderProjects/ArchiN-Tiers/Models/Models.csproj": {
+                "projectPath": "/home/matt/RiderProjects/ArchiN-Tiers/Models/Models.csproj"
               }
             }
           }
@@ -169,21 +169,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/jessee/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/matt/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/jessee/RiderProjects/Application/Models/Models.csproj": {
+    "/home/matt/RiderProjects/ArchiN-Tiers/Models/Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jessee/RiderProjects/Application/Models/Models.csproj",
+        "projectUniqueName": "/home/matt/RiderProjects/ArchiN-Tiers/Models/Models.csproj",
         "projectName": "Models",
-        "projectPath": "/home/jessee/RiderProjects/Application/Models/Models.csproj",
-        "packagesPath": "/home/jessee/.nuget/packages/",
-        "outputPath": "/home/jessee/RiderProjects/Application/Models/obj/",
+        "projectPath": "/home/matt/RiderProjects/ArchiN-Tiers/Models/Models.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/RiderProjects/ArchiN-Tiers/Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jessee/.nuget/NuGet/NuGet.Config"
+          "/home/matt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -232,21 +232,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/jessee/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/matt/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/jessee/RiderProjects/Application/ORM/ORM.csproj": {
+    "/home/matt/RiderProjects/ArchiN-Tiers/ORM/ORM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jessee/RiderProjects/Application/ORM/ORM.csproj",
+        "projectUniqueName": "/home/matt/RiderProjects/ArchiN-Tiers/ORM/ORM.csproj",
         "projectName": "ORM",
-        "projectPath": "/home/jessee/RiderProjects/Application/ORM/ORM.csproj",
-        "packagesPath": "/home/jessee/.nuget/packages/",
-        "outputPath": "/home/jessee/RiderProjects/Application/ORM/obj/",
+        "projectPath": "/home/matt/RiderProjects/ArchiN-Tiers/ORM/ORM.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/RiderProjects/ArchiN-Tiers/ORM/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jessee/.nuget/NuGet/NuGet.Config"
+          "/home/matt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -258,8 +258,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/jessee/RiderProjects/Application/Models/Models.csproj": {
-                "projectPath": "/home/jessee/RiderProjects/Application/Models/Models.csproj"
+              "/home/matt/RiderProjects/ArchiN-Tiers/Models/Models.csproj": {
+                "projectPath": "/home/matt/RiderProjects/ArchiN-Tiers/Models/Models.csproj"
               }
             }
           }
@@ -315,7 +315,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/jessee/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/matt/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
         }
       }
     }
